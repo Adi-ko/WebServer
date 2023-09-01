@@ -66,7 +66,7 @@ $ sudo chmod +x /usr/local/bin/composer
 
 Verifying the Composer version after installing it is done through the following command:
 
-$ composer –version
+$ composer -–version
 
 Step 5: Install Laravel 8 on Ubuntu
 
